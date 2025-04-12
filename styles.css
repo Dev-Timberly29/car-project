@@ -180,6 +180,8 @@ footer{
   .cards{
     margin-top: 90px;
     width: 100%;
+    justify-content: center;
+    left: 50PX;
   }
   .card img{
     width: 300px;
@@ -194,7 +196,7 @@ footer{
     border-radius: px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     display: inline-block;
-    border-radius: 12px;
+    border-radius: 12px  12PX;
   }
   .card p{
     padding: 10px;
